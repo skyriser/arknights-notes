@@ -173,7 +173,7 @@
 
 ### 基地改造の進め方
 
-![image](https://user-images.githubusercontent.com/214525/164131983-7c460588-79f2-436a-910d-baafd363fd41.png)
+<img width="444" alt="image" src="https://user-images.githubusercontent.com/214525/164590885-cccb25b2-e455-4b41-a176-ebe4beb9f348.png">
 
 チュートリアルが終わったぐらいの段階で基地システムが解放されるんですが、基地の拡張にかかるコストはかなりのもので、ゲーム初期に手を出すのはオススメ出来ないです。特に龍門幣はめっちゃかかる。
 
